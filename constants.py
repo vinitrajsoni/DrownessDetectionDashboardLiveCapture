@@ -1,0 +1,15 @@
+# Landmarks
+LEFT_EYE_IDX = [33, 160, 158, 133, 153, 144]
+RIGHT_EYE_IDX = [263, 387, 385, 362, 380, 373]
+MOUTH_IDX = {"top": 13, "bottom": 14, "left": 61, "right": 291}
+
+# Thresholds
+EAR_ALERT_THRESHOLD = 0.25
+MAR_YAWN_THRESHOLD = 0.6
+ALERT_PROB_RED = 0.65
+ALERT_PROB_YELLOW = 0.35
+
+# Colors (BGR)
+COLOR_GREEN = (0, 200, 0)
+COLOR_YELLOW = (0, 200, 200)
+COLOR_RED = (0, 0, 255)
