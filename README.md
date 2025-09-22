@@ -25,16 +25,16 @@ The dashboard:
 Images
 
 Green – Alertness OK
-![Green Alert](Screenshot 2025-09-22 144847.png)
+![Green Alert](GreenOK.png)
 
 Yellow – Drowsy / Be careful
-![Yellow Alert](Screenshot 2025-09-22 144858.png)
+![Yellow Alert](Yellow1.png)
 
 Red – Drowsy / Alert
-![Red Alert](Screenshot 2025-09-22 144910.png)
+![Red Alert](RedAlert.png)
 
 Yellow – Drowsy / Be careful
-![Yellow Alert](Screenshot 2025-09-22 144930.png)
+![Yellow Alert](Yellow2.png)
 ## Installation
 
 1. Clone the repository:
